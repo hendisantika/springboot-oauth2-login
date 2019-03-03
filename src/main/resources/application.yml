@@ -7,7 +7,9 @@ spring:
         registration:
           google:
             client-id: 175510239488-9enu3fk4j2ojkqo37m2jtguvbq31etfb.apps.googleusercontent.com
+            #            client-id: 938624731724-naer3iubgt5qp3ep1o66hco56umeuhp0.apps.googleusercontent.com
             client-secret: ozK9OHy1G9bLNmQ90DUl7dNs
+          #            client-secret: YEuTdMRKwPA9owBWp3BIpbot
           github:
             client-id: f22f07f916718970357b
             client-secret: 71a28c9158d5aeec8834415ad0368a0f752ccdf1
