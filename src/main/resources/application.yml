@@ -12,8 +12,8 @@ spring:
             client-id: f22f07f916718970357b
             client-secret: 71a28c9158d5aeec8834415ad0368a0f752ccdf1
           facebook:
-            client-id: <your client id>
-            client-secret: <your client secret>
+            client-id: 745822442185310
+            client-secret: 1420ee09ae2935be1bfdfee43f4f0890
           okta:
             client-id: 0oadot51ctSY6p0GX0h7
             client-secret: ai4SRqsIpQq8X1SVl9BGKV1KDVhSsloO9ePrfQkm
