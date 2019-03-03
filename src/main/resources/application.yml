@@ -9,8 +9,8 @@ spring:
             client-id: 175510239488-9enu3fk4j2ojkqo37m2jtguvbq31etfb.apps.googleusercontent.com
             client-secret: ozK9OHy1G9bLNmQ90DUl7dNs
           github:
-            client-id: 88f767cd90d34f0b0908
-            client-secret: 3f6274adfcabc0359f33a3e57ce32f04c7312181
+            client-id: f22f07f916718970357b
+            client-secret: 71a28c9158d5aeec8834415ad0368a0f752ccdf1
           facebook:
             client-id: <your client id>
             client-secret: <your client secret>
